@@ -10,8 +10,7 @@ namespace Web.Controllers
         [Route(Name = "FrontEndHomeIndex")]
         public ActionResult Index()
         {
-            return RedirectToRoute("ManagementHome");
-            //return View();
+            return View();
         }
         [Route("~/phan-hoi-thong-tin", Name = "FrontEndHomeFeedback")]
         public ActionResult Feedback()

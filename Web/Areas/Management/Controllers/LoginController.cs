@@ -106,7 +106,7 @@ namespace Web.Areas.Management.Controllers
                 CreateDate = DateTime.Now,
                 IsManageAccount = true,
                 IsNormalAccount = false,
-                PhoneNumber = "0987.6996.87"
+                PhoneNumber = "0937.32.5995"
             };
             await _repository.GetRepository<Account>().CreateAsync(account, 0);
             var oganization = new Organization()
@@ -137,6 +137,17 @@ namespace Web.Areas.Management.Controllers
                 Delete = 1
             };
             await _repository.GetRepository<ModuleRole>().CreateAsync(moduleRole, 0);
+
+            var moduleRole2 = new ModuleRole()
+            {
+                RoleId = 1,
+                ModuleCode = "Role",
+                Create = 1,
+                Read = 1,
+                Update = 1,
+                Delete = 1
+            };
+            await _repository.GetRepository<ModuleRole>().CreateAsync(moduleRole2, 0);
             return RedirectToAction("Index", "Login");
         }
         /// <summary>

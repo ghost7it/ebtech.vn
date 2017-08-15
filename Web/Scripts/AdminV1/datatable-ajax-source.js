@@ -205,66 +205,6 @@ var DatatableAjaxSource = function () {
                     the.setAjaxParam('objectStatus', $('select.object-filter').val());
             });
 
-
-            table.on('search.dt', function () {
-                if ($('.object-filter-ghichu'))
-                    the.setAjaxParam('objectGhiChu', $('.object-filter-ghichu').val());
-            });
-
-            table.on('search.dt', function () {
-                if ($('.object-filter-tenkhach'))
-                    the.setAjaxParam('objectTenKhach', $('.object-filter-tenkhach').val());
-            });
-
-            table.on('search.dt', function () {
-                if ($('.object-filter-quan'))
-                    the.setAjaxParam('objectQuan', $('.sel-quan').val());
-            });
-
-            table.on('search.dt', function () {
-                if ($('.object-filter-duong'))
-                    the.setAjaxParam('objectDuong', $('.sel-duong').val());
-            });
-
-            table.on('search.dt', function () {
-                if ($('.object-filter-mattientu'))
-                    the.setAjaxParam('objectMatTienTu', $('.object-filter-mattientu').val());
-            });
-
-            table.on('search.dt', function () {
-                if ($('.object-filter-mattienden'))
-                    the.setAjaxParam('objectMatTienDen', $('.object-filter-mattienden').val());
-            });
-
-            table.on('search.dt', function () {
-                if ($('.object-filter-giathuetu'))
-                    the.setAjaxParam('objectGiaThueTu', $('.object-filter-giathuetu').val());
-            });
-
-            table.on('search.dt', function () {
-                if ($('.object-filter-giathueden'))
-                    the.setAjaxParam('objectGiaThueDen', $('.object-filter-giathueden').val());
-            });
-
-            table.on('search.dt', function () {
-                if ($('.object-filter-dtsdt1tu'))
-                    the.setAjaxParam('objectDTSDT1Tu', $('.object-filter-dtsdt1tu').val());
-            });
-
-            table.on('search.dt', function () {
-                if ($('.object-filter-dtsdt1den'))
-                    the.setAjaxParam('objectDTSDT1Den', $('.object-filter-dtsdt1den').val());
-            });
-
-            table.on('search.dt', function () {
-                if ($('.object-filter-tongdtsdtu'))
-                    the.setAjaxParam('objectTongDTSDTu', $('.object-filter-tongdtsdtu').val());
-            });
-            
-            table.on('search.dt', function () {
-                if ($('.object-filter-tongdtsdden'))
-                    the.setAjaxParam('objectTongDTSDDen', $('.object-filter-tongdtsdden').val());
-            });
         },
 
         getSelectedRowsCount: function () {
