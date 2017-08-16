@@ -1,0 +1,21 @@
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Interface\bin\Debug\Interface.dll
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Interface\bin\Debug\Interface.pdb
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Interface\bin\Debug\Common.dll
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Interface\bin\Debug\Common.pdb
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Interface\obj\Debug\Interface.dll
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Interface\obj\Debug\Interface.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Interface\bin\Debug\Interface.dll
+F:\WORK\eBtech Management\Software Develop\Src\Interface\bin\Debug\Interface.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Interface\bin\Debug\Common.dll
+F:\WORK\eBtech Management\Software Develop\Src\Interface\bin\Debug\Common.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+F:\WORK\eBtech Management\Software Develop\Src\Interface\obj\Debug\Interface.dll
+F:\WORK\eBtech Management\Software Develop\Src\Interface\obj\Debug\Interface.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Interface\bin\Debug\Interface.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Interface\bin\Debug\Interface.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Interface\bin\Debug\Common.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Interface\bin\Debug\Common.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Interface\obj\Debug\Interface.csprojResolveAssemblyReference.cache
+D:\01.WORK\eBtech\03.eBFramework\Src\Interface\obj\Debug\Interface.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Interface\obj\Debug\Interface.pdb

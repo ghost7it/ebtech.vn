@@ -1,0 +1,33 @@
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\bin\Debug\DataAccess.dll.config
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\bin\Debug\DataAccess.dll
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\bin\Debug\DataAccess.pdb
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\bin\Debug\Common.dll
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\bin\Debug\Entities.dll
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\bin\Debug\EntityFramework.dll
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\bin\Debug\Interface.dll
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\bin\Debug\Common.pdb
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\bin\Debug\Entities.pdb
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\bin\Debug\Interface.pdb
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\bin\Debug\EntityFramework.xml
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\obj\Debug\DataAccess.dll
+F:\WORK\eBtech Management\Software Develop\Src\DataAccess\obj\Debug\DataAccess.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\bin\Debug\DataAccess.dll.config
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\bin\Debug\DataAccess.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\bin\Debug\DataAccess.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\bin\Debug\Common.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\bin\Debug\Entities.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\bin\Debug\EntityFramework.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\bin\Debug\Interface.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\bin\Debug\Common.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\bin\Debug\Entities.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\bin\Debug\Interface.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\bin\Debug\EntityFramework.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\obj\Debug\DataAccess.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\DataAccess\obj\Debug\DataAccess.pdb

@@ -1,0 +1,193 @@
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+F:\WORK\eBtech Management\Software Develop\Src\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Web.dll.config
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Web.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Web.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Antlr3.Runtime.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\CaptchaMvc.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\CKFinder.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Common.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\CompositionRoot.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Elmah.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Elmah.Mvc.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Entities.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\EntityFramework.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\EntityFramework.SqlServer.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Interface.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Microsoft.Web.Infrastructure.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Newtonsoft.Json.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Ninject.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Ninject.Web.Common.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Ninject.Web.Mvc.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Ninject.WebApi.DependencyResolver.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.Helpers.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.Http.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.Http.WebHost.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.Mvc.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.Optimization.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.Razor.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.WebPages.Deployment.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.WebPages.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.WebPages.Razor.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\WebActivator.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\WebGrease.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\DataAccess.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Net.Http.Formatting.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Common.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\CompositionRoot.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Entities.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Interface.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\CaptchaMvc.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\CaptchaMvc.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\CKFinder.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\EntityFramework.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\EntityFramework.SqlServer.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Ninject.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Ninject.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Ninject.Web.Common.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Ninject.Web.Common.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Ninject.Web.Mvc.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Ninject.Web.Mvc.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.Http.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.Http.WebHost.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.Helpers.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.Mvc.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.Optimization.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.Razor.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.WebPages.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.WebPages.Deployment.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Web.WebPages.Razor.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Newtonsoft.Json.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\Antlr3.Runtime.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\DataAccess.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Web\bin\System.Net.Http.Formatting.xml
+F:\WORK\eBtech Management\Software Develop\Src\Web\obj\Debug\Web.dll
+F:\WORK\eBtech Management\Software Develop\Src\Web\obj\Debug\Web.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Web.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Web.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Antlr3.Runtime.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\CaptchaMvc.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\CKFinder.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Common.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\CompositionRoot.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Elmah.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Elmah.Mvc.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Entities.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\EntityFramework.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\EntityFramework.SqlServer.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Interface.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Newtonsoft.Json.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Ninject.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Ninject.Web.Common.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Ninject.Web.Mvc.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Ninject.WebApi.DependencyResolver.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.Helpers.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.Http.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.Http.WebHost.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.Mvc.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.Optimization.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.Razor.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.WebPages.Deployment.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.WebPages.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.WebPages.Razor.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\WebActivator.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\WebGrease.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\DataAccess.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Net.Http.Formatting.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Common.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\CompositionRoot.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Entities.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Interface.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\CaptchaMvc.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\CaptchaMvc.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\CKFinder.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\EntityFramework.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\EntityFramework.SqlServer.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Ninject.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Ninject.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Ninject.Web.Common.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Ninject.Web.Common.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Ninject.Web.Mvc.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Ninject.Web.Mvc.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.Http.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.Http.WebHost.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.Helpers.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.Mvc.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.Optimization.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.Razor.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.WebPages.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.WebPages.Deployment.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Web.WebPages.Razor.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Newtonsoft.Json.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Antlr3.Runtime.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\DataAccess.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\System.Net.Http.Formatting.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\obj\Debug\Web.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\obj\Debug\Web.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Web\bin\Web.dll.config
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Web.dll.config
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Web.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Web.pdb
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Antlr3.Runtime.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\CaptchaMvc.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\CKFinder.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Common.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\CompositionRoot.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Elmah.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Elmah.Mvc.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Entities.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\EntityFramework.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\EntityFramework.SqlServer.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Interface.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Microsoft.Web.Infrastructure.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Newtonsoft.Json.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Ninject.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Ninject.Web.Common.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Ninject.Web.Mvc.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Ninject.WebApi.DependencyResolver.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.Helpers.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.Http.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.Http.WebHost.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.Mvc.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.Optimization.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.Razor.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.WebPages.Deployment.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.WebPages.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.WebPages.Razor.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\WebActivator.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\WebGrease.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\DataAccess.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Net.Http.Formatting.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Common.pdb
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\CompositionRoot.pdb
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Entities.pdb
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Interface.pdb
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\CaptchaMvc.pdb
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\CaptchaMvc.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\CKFinder.pdb
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\EntityFramework.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\EntityFramework.SqlServer.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Ninject.pdb
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Ninject.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Ninject.Web.Common.pdb
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Ninject.Web.Common.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Ninject.Web.Mvc.pdb
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Ninject.Web.Mvc.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.Http.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.Http.WebHost.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.Helpers.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.Mvc.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.Optimization.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.Razor.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.WebPages.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.WebPages.Deployment.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Web.WebPages.Razor.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Newtonsoft.Json.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\Antlr3.Runtime.pdb
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\DataAccess.pdb
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\bin\System.Net.Http.Formatting.xml
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\obj\Debug\Web.dll
+D:\01.WORK\eBtech\06.Projects\014.ebtech.vn\03.Development\Web\obj\Debug\Web.pdb

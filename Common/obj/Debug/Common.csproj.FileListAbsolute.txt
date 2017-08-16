@@ -1,0 +1,15 @@
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Common\bin\Debug\Common.dll
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Common\bin\Debug\Common.pdb
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Common\obj\Debug\Common.dll
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Common\obj\Debug\Common.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Common\bin\Debug\Common.dll
+F:\WORK\eBtech Management\Software Develop\Src\Common\bin\Debug\Common.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+F:\WORK\eBtech Management\Software Develop\Src\Common\obj\Debug\Common.dll
+F:\WORK\eBtech Management\Software Develop\Src\Common\obj\Debug\Common.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Common\bin\Debug\Common.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Common\bin\Debug\Common.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Common\obj\Debug\Common.csprojResolveAssemblyReference.cache
+D:\01.WORK\eBtech\03.eBFramework\Src\Common\obj\Debug\Common.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Common\obj\Debug\Common.pdb

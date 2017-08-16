@@ -1,0 +1,36 @@
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Entities\bin\Debug\Entities.dll.config
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Entities\bin\Debug\Entities.dll
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Entities\bin\Debug\Entities.pdb
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Entities\bin\Debug\Common.dll
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Entities\bin\Debug\EntityFramework.dll
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Entities\bin\Debug\EntityFramework.SqlServer.dll
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Entities\bin\Debug\Common.pdb
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Entities\bin\Debug\EntityFramework.xml
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Entities\bin\Debug\EntityFramework.SqlServer.xml
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Entities\obj\Debug\Entities.dll
+F:\STUDY\LEARN.NAM IV\C#\PROJECT\Alumni\Entities\obj\Debug\Entities.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Entities\bin\Debug\Entities.dll.config
+F:\WORK\eBtech Management\Software Develop\Src\Entities\bin\Debug\Entities.dll
+F:\WORK\eBtech Management\Software Develop\Src\Entities\bin\Debug\Entities.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Entities\bin\Debug\Common.dll
+F:\WORK\eBtech Management\Software Develop\Src\Entities\bin\Debug\EntityFramework.dll
+F:\WORK\eBtech Management\Software Develop\Src\Entities\bin\Debug\EntityFramework.SqlServer.dll
+F:\WORK\eBtech Management\Software Develop\Src\Entities\bin\Debug\Common.pdb
+F:\WORK\eBtech Management\Software Develop\Src\Entities\bin\Debug\EntityFramework.xml
+F:\WORK\eBtech Management\Software Develop\Src\Entities\bin\Debug\EntityFramework.SqlServer.xml
+F:\WORK\eBtech Management\Software Develop\Src\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+F:\WORK\eBtech Management\Software Develop\Src\Entities\obj\Debug\Entities.dll
+F:\WORK\eBtech Management\Software Develop\Src\Entities\obj\Debug\Entities.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Entities\bin\Debug\Entities.dll.config
+D:\01.WORK\eBtech\03.eBFramework\Src\Entities\bin\Debug\Entities.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Entities\bin\Debug\Entities.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Entities\bin\Debug\Common.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Entities\bin\Debug\EntityFramework.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Entities\bin\Debug\EntityFramework.SqlServer.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Entities\bin\Debug\Common.pdb
+D:\01.WORK\eBtech\03.eBFramework\Src\Entities\bin\Debug\EntityFramework.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Entities\bin\Debug\EntityFramework.SqlServer.xml
+D:\01.WORK\eBtech\03.eBFramework\Src\Entities\obj\Debug\Entities.csprojResolveAssemblyReference.cache
+D:\01.WORK\eBtech\03.eBFramework\Src\Entities\obj\Debug\Entities.dll
+D:\01.WORK\eBtech\03.eBFramework\Src\Entities\obj\Debug\Entities.pdb
