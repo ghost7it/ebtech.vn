@@ -28,7 +28,7 @@
             </div>
         </div>
     }
-    <div class="clear list2">
+    <div class="clear list2">    
         @foreach (var item in Model.Skip(2))
         {
             <a href="@Url.RouteUrl("FrontEndArticleDetail", new { categoryName = StringHelper.StringFilter(category.Name), title = StringHelper.StringFilter(item.Title), categoryId = category.Id, id = item.Id })" title="@item.Title">
